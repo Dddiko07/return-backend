@@ -1,7 +1,7 @@
 {
   "name": "returnukhti-backend",
   "version": "1.0.0",
-  "description": "Backend Return Ukhti - Express + Sequelize + PostgreSQL (Supabase)",
+  "description": "Backend ReturnUkhti (Express + Sequelize + Postgres)",
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
@@ -9,7 +9,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
